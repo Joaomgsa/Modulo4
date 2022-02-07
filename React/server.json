@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Portugal: Lisboa + Porto",
+      "price": 1799.08,
+      "image": "https://i.ibb.co/HGJ8Rzh/porto.png"
+    },
+    {
+      "id": 2,
+      "title": "Classico: Roma + Paris: 2023 e 2024",
+      "price": 1999.00,
+      "image": "https://i.ibb.co/pnMvq06/roma.png"
+    },
+    {
+      "id": 3,
+      "title": "São Miguel do Gostoso (RN): 2023",
+      "price": 899.68,
+      "image": "https://i.ibb.co/4179tPj/saomiguel.png"
+    },
+    {
+      "id": 4,
+      "title": "Punta Cana: All Inclusive - 2023 e 2024",
+      "price": 2599.75,
+      "image": "https://i.ibb.co/CvQJLVc/puntacana.png"
+    },
+    {
+      "id": 5,
+      "title": "Grecia: Atenas + Santorini - 2023 e 2024",
+      "price": 2799.00,
+      "image": "https://i.ibb.co/vQzY3Zp/santorini.png"
+    },
+    {
+      "id": 6,
+      "title": "Orlando: Parques Universal e Disney",
+      "price": 1899.90,
+      "image": "https://i.ibb.co/J2g1W5v/disney.png"
+    }
+  ]
+}
