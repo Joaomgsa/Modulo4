@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">
-  Loja de livros online com Redux
+  Agencia de Viagens com React
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## Demonstração
 
 <p align="center">
-  <img alt="web" src="https://github.com/OneBitCodeBlog/onebitbooks/blob/master/.github/obb.gif" width="100%">
+  <img alt="web" src="" width="100%">
 </p>
 
 <br>
